@@ -1,0 +1,19 @@
+{
+  "name": "adventofcode-2018",
+  "version": "1.0.0",
+  "description": "I'm doing it! Adevent of Code 2018!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yOoMarvin/adventofcode-2018.git"
+  },
+  "author": "Marvin Messenzehl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yOoMarvin/adventofcode-2018/issues"
+  },
+  "homepage": "https://github.com/yOoMarvin/adventofcode-2018#readme"
+}
