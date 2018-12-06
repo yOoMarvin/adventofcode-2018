@@ -26,7 +26,6 @@ const run = (b0, b1) => {
           if (b[1] < a[1]) return b;
           return [[NaN, NaN], a[1]];
         });
-      console.log(cd);
       ps[cd[0]] = (ps[cd[0]] || 0) + 1;
     }
   }
